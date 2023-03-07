@@ -1,0 +1,160 @@
+.nav{
+    display:flex;
+    justify-content: space-between;
+    margin-top: -10;
+
+}
+nav ul li{
+    display:inline-block;
+    padding: 10px 10px;
+    font-size: large;
+    color: maroon;
+}
+.logo{
+    color:maroon;
+    font-weight: bold;
+    font-size: 30px;
+    text-transform: capitalize;
+    border-radius: 2px dashed black;
+    border: 2px solid;
+    border-radius: 15px;
+    padding: 10px 20px;
+    font-weight: bolder;
+
+
+}
+.shop{
+    width: 80%;
+    align-items: center;
+    padding-left: 10%;
+
+
+}
+.body{
+    background-color: antiquewhite;
+}
+.cont{
+    float:center;
+   font-family:'Courier New', Courier, monospace;
+    margin-top: 5%;
+    background-size: 80%;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    color: maroon;
+
+    
+}
+
+#motto{
+    margin-top: -5%;
+    margin-left: 30%;
+    color:white;
+    font-size: 30px;
+    font-family:monospace;
+    border: 2px;
+}
+.male{
+    margin-left: 10%;
+
+}
+#males{
+    width:25%;
+    
+}
+.female{
+    margin-left: 30%;
+    margin-top: -23%;
+}
+#females{
+    width: 40%;
+    
+}
+.kids{
+   margin-left: 60%;
+   margin-top: -27%;
+   margin-right: 10%;
+   
+
+}
+#kid{
+    width:60%;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    font-size: large;
+    margin-top: 10%;
+    background-color: bisque;
+}
+.section{
+   color:brown;
+   margin-top: -2%;
+}
+#shop{
+    border:2px;
+    background-color: maroon;
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-weight: bolder;
+    font-size: larger;
+    color:white;
+
+}
+#collection{
+    width: 30%;
+    float: right;
+    margin-top: -19%;
+    height: 20%;
+}
+#men{
+    border:2px;
+    background-color: maroon;
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-weight: bolder;
+    font-size: larger;
+    color:white; 
+}
+#women{
+    border:2px;
+    background-color: maroon;
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-weight: bolder;
+    font-size: larger;
+    color:white;
+}
+#bebe{
+    border:2px;
+    background-color: maroon;
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-weight: bolder;
+    font-size: larger;
+    color:white;
+}
+#welcome{
+    width: 70%;
+    float: right;
+}
+#buy{
+    text-align: center;
+    font-weight: bold;
+    color: maroon;
+}
+#shopn{
+    border:2px;
+    background-color: maroon;
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-weight: bolder;
+    font-size: larger;
+    color:white;
+    align-items: center;
+}
+#about{
+    text-align: center;
+
+}
